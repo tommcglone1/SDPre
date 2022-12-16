@@ -3,8 +3,6 @@ public class Objective2Lab2 {
 		String name = "Thomas McGlone";
 		int age = 28;
 		String state = "Pennsylvania";
-		System.out.println(name);
-		System.out.println(age);
-		System.out.println(state);
-	}
+		System.out.println("Name: "+name +" Age: "+age +" State: "+ state);
+		}
 }
