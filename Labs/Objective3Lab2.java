@@ -5,6 +5,6 @@ public class Objective3Lab2 {
 		double totalside2 = side2 * side2;
 		double totalbothsides = (totalside1 + totalside2);
 		double hypotenuse = Math.sqrt(totalbothsides);
-		System.out.println(hypotenuse);
-	}
+		System.out.println("The hypotenuse of a triangle with sides 10.0 and 8.0 is "+hypotenuse);
+	} 
 }
