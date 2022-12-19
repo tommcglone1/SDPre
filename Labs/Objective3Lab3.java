@@ -3,7 +3,7 @@ public class Objective3Lab3 {
 		int first = 1 + (int) (Math.random() * 6); 
 		int second = 1 + (int) (Math.random() * 6);
 		int third = 1 + (int) (Math.random() * 6);
-		int finalresult = first + second + third;
-		System.out.println(first + "+" + second + "+" + third + "=" + finalresult);
+		int finalResult = first + second + third;
+		System.out.println(first + "+" + second + "+" + third + "=" + finalResult);
 	}
 }
