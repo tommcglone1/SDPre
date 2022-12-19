@@ -4,12 +4,12 @@ public class Objective3Lab3 {
 		int second = 1 + (int) (Math.random() * 6);
 		int third = 1 + (int) (Math.random() * 6);
 		int finalresult = first + second + third;
-		System.out.print(first) ;
-		System.out.print("+") ;
+		System.out.print(first);
+		System.out.print("+");
 		System.out.print(second);
 		System.out.print("+");
 		System.out.print(third);
-		System.out.print("=" );
+		System.out.print("=");
 		System.out.println(finalresult);
 	}
 }
