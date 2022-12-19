@@ -15,5 +15,6 @@ public class Objective4Lab3 {
 
     System.out.println("You were in born in " + birthYear);
     input.close();
+    
   }
 }
