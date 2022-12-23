@@ -3,16 +3,16 @@ public class Objective7Lab3 {
 		int counter = 1;
 
 		while(counter <= 20) {
-			System.out.print(counter);
-			counter = counter + 1;
+			if(counter % 2 == 0) {
+			System.out.println(counter + " is even");
+		}
+			else if(counter % 2 != 0) {
+			System.out.println(counter + " is odd");
 
-		if(counter % 2 == 0) {
-			System.out.println(" is odd");
 		}
-		else if(counter % 2 != 0) {
-			System.out.println(" is even");
-		}
-		
+			counter ++;
+
+
 		}
 	}
 }
