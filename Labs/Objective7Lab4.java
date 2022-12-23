@@ -4,7 +4,7 @@ public class Objective7Lab4 {
 
 		while(count <= 20) {
 			sum = sum + count;
-			count++;	
+			count++;
 		}	
 		System.out.println(sum);
 	}
