@@ -3,10 +3,11 @@ import java.util.Scanner;
 public class Objective9Lab3 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-
+		int selection;
+		
 		while(true){
 			printMenu();
-			int selection = scanner.nextInt();
+			selection = scanner.nextInt();
 
 			if(selection == 1) 
 				System.out.println("Hello World");
