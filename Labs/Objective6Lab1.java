@@ -2,8 +2,7 @@ public class Objective6Lab1 {
 	public static void main(String[] args) {
 		int month = 6;
 
-		// I realize that the lab only calls for June to be written for, 
-		// but I just wanted a little more practice.  
+	
 
 		switch (month) {
 			case 1:
