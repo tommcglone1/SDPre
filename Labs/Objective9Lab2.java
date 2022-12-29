@@ -3,9 +3,9 @@ public class Objective9Lab2 {
 		System.out.println("In main");
 		printMessage();
 		System.out.println("In main");
-}
+	}
 
-public static void printMessage() {
+	public static void printMessage() {
 		System.out.println("In method");
 	}
 
