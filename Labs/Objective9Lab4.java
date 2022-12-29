@@ -10,8 +10,8 @@ public class Objective9Lab4 {
 		System.out.print("Please give me another number: ");
 		num2 = kb.nextDouble();
 
-    double average = findAverage(num1, num2);
-    System.out.println("The average of " + num1 + " and " + num2 + " is: " + average);
+    double answer = findAverage(num1, num2);
+    System.out.println("The average of " + num1 + " and " + num2 + " is: " + answer);
 
     kb.close();
 
